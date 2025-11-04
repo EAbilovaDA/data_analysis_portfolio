@@ -8,7 +8,7 @@
 ## Portfolio Projects
 A collection of my Data Analytics projects demonstrating my skills and progress over time.
 
-### Kazakhstan Auto Market Analysis
+### 🚗 Kazakhstan Auto Market Analysis
 
 **Repo:** [Kazakhstan Auto Market Analysis](https://github.com/EAbilovaDA/Kazakhstan_Auto_Market_Analysis)  
 **Description:** The goal was to analyze car sales in Kazakhstan for 2019, evaluate the market position of the dealership “Merkur Auto”, identify reasons for revenue decline, and suggest potential opportunities for sales growth.  
