@@ -2,7 +2,6 @@
 
 
 ## Table of contents
-- [Portfolio Projects](## Portfolio Projects)
-
+- [Portfolio Projects](#portfolio-projects)
 
 ## Portfolio Projects
