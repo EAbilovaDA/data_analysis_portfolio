@@ -14,7 +14,7 @@ A collection of my Data Analytics projects demonstrating my skills and progress 
 ### Kazakhstan Auto Market Analysis
 
 **🚗 Repo:** [Kazakhstan Auto Market Analysis](https://github.com/EAbilovaDA/Kazakhstan_Auto_Market_Analysis)  
-
+          
 **Description:** The goal was to analyze car sales in Kazakhstan for 2019, evaluate the market position of the dealership “Merkur Auto”, identify reasons for revenue decline, and suggest potential opportunities for sales growth.  
 **Skills:** Data cleaning, handling missing and inconsistent data, detecting duplicates, data enrichment, standardization of formats and types , exploratory data analysis, data aggregation with pivot tables, revenue analysis, market segmentation, competitive analysis, BCG analisis, data visualization, hypothesis testing, Pearson correlation calculation.  
 
@@ -24,7 +24,8 @@ A collection of my Data Analytics projects demonstrating my skills and progress 
 
 ### Traffic Accident Analysis in Saint Petersburg
 
-**🚦 Repo:** [Traffic Accident Analysis](https://github.com/EAbilovaDA/traffic_accident_analysis)
+**🚦 Repo:** [Traffic Accident Analysis](https://github.com/EAbilovaDA/traffic_accident_analysis)  
+  
 **Description:** This analysis was done for a non-profit project called **“Karta DTП”** ([dtp-stat.ru](http://dtp-stat.ru/)), which works with open data about road safety in Russia.
 
 The project’s objectives were to study the trends in traffic accidents over the available period, identify key patterns and risk factors affecting the severity and frequency of collisions, and test hypotheses to statistically validate the observed trends.
