@@ -23,7 +23,7 @@ A collection of my Data Analytics projects demonstrating my skills and progress 
 
 ### Traffic Accident Analysis in Saint Petersburg
 
-**🚦 Repo:** 
+**🚦 Repo:** [Traffic Accident Analysis](https://github.com/EAbilovaDA/traffic_accident_analysis)
 **Description:** This analysis was done for a non-profit project called **“Karta DTП”** ([dtp-stat.ru](http://dtp-stat.ru/)), which works with open data about road safety in Russia.
 
 The project’s objectives were to study the trends in traffic accidents over the available period, identify key patterns and risk factors affecting the severity and frequency of collisions, and test hypotheses to statistically validate the observed trends.
