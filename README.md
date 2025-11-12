@@ -24,3 +24,12 @@ A collection of my Data Analytics projects demonstrating my skills and progress 
 ### Traffic Accident Analysis in Saint Petersburg
 
 **🚦 Repo:** 
+**Description:** This analysis was done for a non-profit project called **“Karta DTП”** ([dtp-stat.ru](http://dtp-stat.ru/)), which works with open data about road safety in Russia.
+
+The project’s objectives were to study the trends in traffic accidents over the available period, identify key patterns and risk factors affecting the severity and frequency of collisions, and test hypotheses to statistically validate the observed trends.
+
+**Skills:** **Web scraping** and automated file download, loading and normalizing **GeoJSON data**, **creating separate tables** for accidents, participants, and vehicles, exporting cleaned DataFrames to **SQLite database**, exploratory data analysis with **Data_Profiling**, data cleaning and transformation, data type conversion and feature engineering, anomaly handling, analyzing data relationships with **SQL queries**, data visualization, hypothesis testing with **Chi-square test**.
+
+**Tools:** Python, SQLite3, JSON, Pandas, NumPy, Scipy, Matplotlib, Seaborn, Requests, Zipfile,  OS, BeautifulSoup, ydata_profiling, Google Colab / Jupyter Notebook.
+
+**Results:** Cleaned and structured datasets stored in SQLite, performed comprehensive exploratory data analysis with profiling, identified key accident factor relationships, visualized insights clearly, conducted Chi-square hypothesis testing, and established a reliable data foundation for traffic safety research.
