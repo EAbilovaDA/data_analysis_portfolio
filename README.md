@@ -14,6 +14,7 @@ A collection of my Data Analytics projects demonstrating my skills and progress 
 ### Kazakhstan Auto Market Analysis
 
 **🚗 Repo:** [Kazakhstan Auto Market Analysis](https://github.com/EAbilovaDA/Kazakhstan_Auto_Market_Analysis)  
+
 **Description:** The goal was to analyze car sales in Kazakhstan for 2019, evaluate the market position of the dealership “Merkur Auto”, identify reasons for revenue decline, and suggest potential opportunities for sales growth.  
 **Skills:** Data cleaning, handling missing and inconsistent data, detecting duplicates, data enrichment, standardization of formats and types , exploratory data analysis, data aggregation with pivot tables, revenue analysis, market segmentation, competitive analysis, BCG analisis, data visualization, hypothesis testing, Pearson correlation calculation.  
 
