@@ -2,11 +2,31 @@
 
 
 ## Table of contents
+- [Study Project](study-project)
+  - [Yandex Practicum — Data Analyst Program](#yandex-practicum-data-analyst-program)
 - [Portfolio Projects](#portfolio-projects)
   - [Kazakhstan Auto Market Analysis](#kazakhstan-auto-market-analysis)
   - [Traffic Accident Analysis in Saint Petersburg](#traffic-accident-analysis-in-saint-petersburg)
 
-    
+
+## Study Project
+This section showcases the courses and training programs that build the foundation of my data analysis skills, along with GitHub repositories containing code and Jupyter notebooks created during my learning and independent exploration of data and programming.
+
+
+### Yandex Practicum Data Analyst Program
+
+**🎓 Repo:** [yandex_data_analyst_course](https://github.com/EAbilovaDA/yandex_data_analyst_course)
+
+**Description:**  This is a 7-month professional training program at [Practicum by Yandex](https://practicum.yandex.ru/data-analyst/), focused on developing practical data analysis skills.
+The curriculum covered Python programming, data preprocessing, exploratory data analysis (EDA), SQL, Statistics, business metrics analysis, A/B testing, data visualization, and Tableau.
+
+Over the course, I completed 8 full-scale educational projects, each simulating real-world analytical tasks — from cleaning and exploring large datasets to hypothesis testing, business decision-making, and data storytelling.
+
+**Status:** Completed in October 2024.
+**Certificate:**
+
+
+
 ## Portfolio Projects
 A collection of my Data Analytics projects demonstrating my skills and progress over time.
 
